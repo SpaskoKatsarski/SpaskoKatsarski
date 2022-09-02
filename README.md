@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+|Courses|Certificates|
+|:---|:---|
+|<a href="https://softuni.bg/trainings/3513/programming-basics-with-csharp-november-2021" > Programming Basics with C# </a>| <a href=""> 👉📜✅</a> |
+|<a href="https://softuni.bg/trainings/3606/programming-fundamentals-with-csharp-january-2022%22%3E C# Fundamentals </a>| <a href=""> 👉📜✅</a> |
+|<a href="https://softuni.bg/trainings/3699/csharp-advanced-may-2022%22%3E C# Advanced </a>| <a href=""> 👉📜✅</a> |
+|<a href="https://softuni.bg/trainings/3700/csharp-oop-june-2022%22%3E C# OOP </a>| <a href=""> 👉📜✅</a> |
