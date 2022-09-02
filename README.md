@@ -3,7 +3,7 @@ Hi! I'm Spasko!
 </h1>
 
 <h2>
-  I'm a student at <a href="https://softuni.bg" target="_blank" > SoftUni </a>, currently learning C# and JavaScript!
+  I'm a student at <a href="https://softuni.bg" > SoftUni </a>, currently learning C# and JavaScript!
 </h2>
 
 |Courses|Certificates|
