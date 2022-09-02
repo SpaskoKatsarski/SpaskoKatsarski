@@ -5,5 +5,4 @@
 |<a href="https://softuni.bg/trainings/3699/csharp-advanced-may-2022" > C# Advanced </a>| <a href="https://softuni.bg/certificates/details/136291/1d340b5d"> 👉📜✅</a> |
 |<a href="https://softuni.bg/trainings/3700/csharp-oop-june-2022" > C# OOP </a>| <a href="https://softuni.bg/certificates/details/141076/1213f2ef"> 👉📜✅</a> |
 
-
 <a href="#"><img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=SpaskoKatsarski&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" alt="GitHub Stats" /></a> <a href="#"><img align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marti2509&layout=compact&theme=tokyonight&hide_border=true" /></a>
