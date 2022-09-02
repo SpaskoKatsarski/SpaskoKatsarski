@@ -1,5 +1,25 @@
 <h1>
-Spasko !<a href="https://user-images.githubusercontent.com/91427186/188155291-c4e2bd27-16f1-4e5e-b836-01af1544789f.png"><img align="left" src="" alt="" /></a>
+Spasko ! <span class="wave">👋</span> .wave {
+  animation-name: wave-animation;  /* Name of @keyframes element below */
+  animation-duration: .75s;  /* Wave speed */
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+  animation-play-state: paused;
+  transform-origin: 70% 70%;  /* Pivot from bottom-left palm */
+  display: inline-block;
+  font-size: 8rem;
+}
+
+.wave:hover {
+  animation-play-state: running; /* Play animation on mouse hover */
+}
+
+@keyframes wave-animation {
+  0% { transform: rotate( 0deg ) }
+  25% { transform: rotate( -10deg ) }
+  75% { transform: rotate( 12deg ) }
+  100% { transform: rotate( 0deg ) }
+}
 </h1>
 
 |Courses|Certificates|
