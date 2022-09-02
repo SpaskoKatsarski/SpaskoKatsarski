@@ -15,7 +15,9 @@ Spasko !👋
 
 <a href="#"><img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=SpaskoKatsarski&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" alt="GitHub Stats" /></a> <a href="#"><img align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marti2509&layout=compact&theme=tokyonight&hide_border=true" /></a>
 
-<a href="https://www.instagram.com/patso067/" > <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Image"></a>
+<a href="https://account.battle.net/overview" > <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Image"></a>
+
+<a href="https://www.reddit.com/user/NotSyncK" > <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Image"></a>
 
 <a href="https://www.youtube.com/channel/UCPgsGPTyf6FW8N5zSRBBtfA" > <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Image"></a>
 
