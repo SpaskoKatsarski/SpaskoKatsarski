@@ -13,6 +13,7 @@ Spasko !👋
 |<a href="https://softuni.bg/trainings/3699/csharp-advanced-may-2022" > C# Advanced </a>| <a href="https://softuni.bg/certificates/details/136291/1d340b5d"> 👉📜✔️</a> |
 |<a href="https://softuni.bg/trainings/3700/csharp-oop-june-2022" > C# OOP </a>| <a href="https://softuni.bg/certificates/details/141076/1213f2ef"> 👉📜✔️</a> |
 
+<h2>
 <a href="#"><img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=SpaskoKatsarski&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" alt="GitHub Stats" /></a> <a href="#"><img align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marti2509&layout=compact&theme=tokyonight&hide_border=true" /></a>
 
 <a href="https://account.battle.net/overview" > <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Image"></a>
@@ -22,3 +23,4 @@ Spasko !👋
 <a href="https://www.youtube.com/channel/UCPgsGPTyf6FW8N5zSRBBtfA" > <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Image"></a>
 
 <a href="https://www.twitch.tv/notsynck" > <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch Image"></a>
+</h2>
