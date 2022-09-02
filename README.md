@@ -1,3 +1,4 @@
+// Here will be all of my courses and the corresponding sertificates.
 |Courses|Certificates|
 |:---|:---|
 |<a href="https://softuni.bg/trainings/3503/programming-basics-with-csharp-september-2021" > Programming Basics with C# </a>| <a href="https://softuni.bg/certificates/details/116444/6ed61e96"> 👉📜✅</a> |
@@ -5,4 +6,5 @@
 |<a href="https://softuni.bg/trainings/3699/csharp-advanced-may-2022" > C# Advanced </a>| <a href="https://softuni.bg/certificates/details/136291/1d340b5d"> 👉📜✅</a> |
 |<a href="https://softuni.bg/trainings/3700/csharp-oop-june-2022" > C# OOP </a>| <a href="https://softuni.bg/certificates/details/141076/1213f2ef"> 👉📜✅</a> |
 
+// Here are my GitHub status and the languages I'm posting in GitHub.
 <a href="#"><img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=SpaskoKatsarski&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" alt="GitHub Stats" /></a> <a href="#"><img align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marti2509&layout=compact&theme=tokyonight&hide_border=true" /></a>
