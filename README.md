@@ -1,4 +1,3 @@
-<img src="https://scontent-sof1-2.xx.fbcdn.net/v/t1.15752-9/304922748_1140239500232801_2366871036874669453_n.png?_nc_cat=102&ccb=1-7&_nc_sid=ae9488&_nc_ohc=F5NYESeBMfYAX-dMo6n&_nc_ht=scontent-sof1-2.xx&oh=03_AVKz08tONHY0KfhMEZheq34TL7XFNYYJiE0jMqRJLxyuDg&oe=6339D932" alt="Profile Picture">
 <h1>
   Spasko !👋
 </h1>
