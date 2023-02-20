@@ -14,6 +14,8 @@
 |<a href="https://softuni.bg/trainings/3700/csharp-oop-june-2022" > C# OOP </a>| <a href="https://softuni.bg/certificates/details/141076/1213f2ef"> 👉📜✔️</a> |
 |<a href="https://softuni.bg/certificates/details/150118/7544bf9f" > JS Advanced </a>| <a href="https://softuni.bg/certificates/details/150118/7544bf9f"> 👉📜✔️</a> |
 |<a href="https://softuni.bg/trainings/3847/js-applications-october-2022" > JS Applications </a>| <a href="https://softuni.bg/certificates/details/149942/1e2d8e6c"> 👉📜✔️</a> |
+|<a href="https://softuni.bg/trainings/3965/ms-sql-january-2023" > MS SQL </a>| <a href="https://softuni.bg/certificates/details/157808/c9f07c82"> 👉📜✔️</a> |
+
 
 <a href="#"><img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=SpaskoKatsarski&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" alt="GitHub Stats" /></a> <a href="#"><img align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpaskoKatsarski&layout=compact&theme=tokyonight&hide_border=true" /></a>
 
