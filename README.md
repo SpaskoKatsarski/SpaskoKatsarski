@@ -16,6 +16,7 @@
 |<a href="https://softuni.bg/trainings/3847/js-applications-october-2022" > JS Applications </a>| <a href="https://softuni.bg/certificates/details/149942/1e2d8e6c"> 👉📜✔️</a> |
 |<a href="https://softuni.bg/trainings/3965/ms-sql-january-2023" > MS SQL </a>| <a href="https://softuni.bg/certificates/details/157808/c9f07c82"> 👉📜✔️</a> |
 |<a href="https://softuni.bg/trainings/3966/entity-framework-core-february-2023" > EF Core </a>| <a href="https://softuni.bg/certificates/details/164842/d6785f5e"> 👉📜✔️</a> |
+|<a href="https://softuni.bg/trainings/4105/asp-net-fundamentals-may-2023" > ASP .NET Core Fundamentals </a>| <a href="https://softuni.bg/certificates/details/175388/979effe5"> 👉📜✔️</a> |
 
 <a href="#"><img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=SpaskoKatsarski&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" alt="GitHub Stats" /></a> <a href="#"><img align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpaskoKatsarski&layout=compact&theme=tokyonight&hide_border=true" /></a>
 
