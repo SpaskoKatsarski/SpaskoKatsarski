@@ -1,3 +1,6 @@
+[comment]: <> (PROFILE PICTURE)
+<img src="https://github.com/SpaskoKatsarski/SpaskoKatsarski/assets/91427186/bf714371-ba76-4f98-9d52-883ecbf6ed20" alt="Profile Picture" width="1300px" align="center">
+
 <h1>
   Spasko !👋
 </h1>
