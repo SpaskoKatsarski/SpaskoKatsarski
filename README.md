@@ -70,4 +70,8 @@
     <td><a href="https://softuni.bg/trainings/4107/asp-net-advanced-june-2023">ASP .NET Core Advanced</a></td>
     <td><a href="https://softuni.bg/certificates/details/182235/494416e0">👉📜✔️</a></td>
   </tr>
+  <tr>
+    <td><a href="https://softuni.bg/trainings/4266/data-structures-fundamentals-with-csharp-september-2023">DS Fundamentals (with C#)</a></td>
+    <td><a href="https://softuni.bg/certificates/details/185488/74057e73">👉📜✔️</a></td>
+  </tr>
 </table>
