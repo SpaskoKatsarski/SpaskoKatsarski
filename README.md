@@ -10,15 +10,6 @@
 <h3 align="center">Working as 'Learning Materials Expert' for SoftUni</h3>
 
 <p align="center">
-  <a href="https://www.instagram.com/patso067">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://www.reddit.com/user/NotSyncK">
-    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit">
-  </a>
-</p>
-
-<p align="center">
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=SpaskoKatsarski&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" alt="GitHub Stats"></a>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpaskoKatsarski&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"></a>
 </p>
