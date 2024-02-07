@@ -5,8 +5,6 @@
 
 <h1 align="center">Spasko !👋</h1>
 
-<h2 align="center">I'm a student at <a href="https://softuni.bg">SoftUni</a>, currently learning C# and JavaScript!</h2>
-
 <h3 align="center">Working as 'Learning Materials Expert' for SoftUni</h3>
 
 <p align="center">
