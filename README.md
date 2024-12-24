@@ -1,11 +1,10 @@
-<!-- PROFILE PICTURE -->
 <p align="center">
   <img src="https://github.com/SpaskoKatsarski/SpaskoKatsarski/assets/91427186/bf714371-ba76-4f98-9d52-883ecbf6ed20" alt="Profile Picture" width="1300px" align="center">
 </p>
 
 <h1 align="center">Spasko !👋</h1>
 
-<h3 align="center">Working as 'Learning Materials Expert' for SoftUni</h3>
+<h3 align="center">Software Developer at Klevret</h3>
 
 <p align="center">
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=SpaskoKatsarski&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" alt="GitHub Stats"></a>
